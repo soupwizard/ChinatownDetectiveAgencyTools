@@ -10,6 +10,6 @@ If you don't want to run the program to decode the library book secret message, 
 <details>
   <summary>Spoiler warning</summary>
   
-  <p>Decoded message: LUDSTOWNWEDNESDAYSIXFORTY<p>
+  <br>Decoded message: LUDSTOWNWEDNESDAYSIXFORTY
   
 </details>
